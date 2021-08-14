@@ -1,4 +1,4 @@
-#CRYPTO-AI #
+# CRYPTO-AI 
 
 ## Features
 Data pulling from live feed to generate datasets <br>
