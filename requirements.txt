@@ -1,0 +1,11 @@
+APScheduler==3.6.3
+requests==2.20.1
+aiohttp==3.6.2
+websocket_client==0.57.0
+yagmail>=0.14.245
+keyring>=21.7.0
+joblib>=1.0.1
+pandas>=1.2.2
+pandas-profiling>=2.10.1
+sweetviz>=2.0.6
+scikit-learn>=0.24.1

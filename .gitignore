@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+.installed.cfg
+**/__pycache__
+Configs/secret.json
+venv
